@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+tensorflow==2.15.0
+numpy==1.26.2
+matplotlib==3.7.1
+Pillow==9.5.0
+transformers==4.36.0
+streamlit==1.29.0
+=======
+tensorflow==2.15.0
+numpy==1.26.2
+matplotlib==3.7.1
+Pillow==9.5.0
+transformers==4.36.0
+streamlit==1.29.0
+>>>>>>> efcce81a6be7e77d83a9dad80e49a1e780b51823
+joblib==1.2.0
