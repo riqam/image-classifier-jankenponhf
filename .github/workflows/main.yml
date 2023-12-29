@@ -16,5 +16,5 @@ jobs:
           lfs: true
       - name: Push to hub
         env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push --force https://rifqiakram:$HF_TOKEN@huggingface.co/spaces/rifqiakram/image_classifier_jankenpon main
+          HF_TOKEN: ${{ secrets.JANKENPON_TOKEN_HF }}
+        run: git push --force https://rifqiakram:$JANKENPON_TOKEN_HF@huggingface.co/spaces/rifqiakram/image_classifier_jankenpon main
