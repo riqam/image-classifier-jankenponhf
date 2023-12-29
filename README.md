@@ -1,6 +1,6 @@
 ---
 title: Image Classifier Jankenpon
-emoji: ⚡
+emoji: ✋👊✌
 colorFrom: red
 colorTo: gray
 sdk: streamlit
