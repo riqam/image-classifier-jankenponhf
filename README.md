@@ -17,3 +17,6 @@ This is a machine learning model that has been built with Tensorflow to classify
 Please try the Streamlit App that I made by clicking the link below:
 
 https://rifqiakram-jankenpon.hf.space
+
+---
+If you are interested in Data Science or Data Analysis, follow my work through my LinkedIn [M. Rifqi Akram](https://www.linkedin.com/in/m-rifqi-akram/)
